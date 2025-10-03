@@ -6,7 +6,7 @@
   <link href="http://freizy0.github.io/atom.xml" rel="self"/>
   
   <link href="http://freizy0.github.io/"/>
-  <updated>2025-10-03T14:16:13.292Z</updated>
+  <updated>2025-10-03T14:48:23.186Z</updated>
   <id>http://freizy0.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前言</title>
+    <link href="http://freizy0.github.io/2025/10/03/%E5%89%8D%E8%A8%80/"/>
+    <id>http://freizy0.github.io/2025/10/03/%E5%89%8D%E8%A8%80/</id>
+    <published>2025-10-03T14:47:23.000Z</published>
+    <updated>2025-10-03T14:48:23.186Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是前言部分，有一些想说的话，可以说。</p><h2 id="参考资料">参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是前言部分，有一些想说的话，可以说。&lt;/p&gt;
+&lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockq</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>计算机系统</title>
