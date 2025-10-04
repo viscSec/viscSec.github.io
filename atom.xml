@@ -6,7 +6,7 @@
   <link href="http://viscsec.github.io/atom.xml" rel="self"/>
   
   <link href="http://viscsec.github.io/"/>
-  <updated>2025-10-03T14:48:23.186Z</updated>
+  <updated>2025-10-03T14:16:13.292Z</updated>
   <id>http://viscsec.github.io/</id>
   
   <author>
@@ -15,33 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>前言</title>
-    <link href="http://viscsec.github.io/2025/10/03/%E5%89%8D%E8%A8%80/"/>
-    <id>http://viscsec.github.io/2025/10/03/%E5%89%8D%E8%A8%80/</id>
-    <published>2025-10-03T14:47:23.000Z</published>
-    <updated>2025-10-03T14:48:23.186Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是前言部分，有一些想说的话，可以说。</p><h2 id="参考资料">参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这是前言部分，有一些想说的话，可以说。&lt;/p&gt;
-&lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockq</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>计算机系统</title>
@@ -125,24 +98,24 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://viscsec.github.io/2025/09/26/hello-world/"/>
-    <id>http://viscsec.github.io/2025/09/26/hello-world/</id>
-    <published>2025-09-26T09:32:44.334Z</published>
-    <updated>2025-10-03T14:26:11.382Z</updated>
+    <title>前言</title>
+    <link href="http://viscsec.github.io/2025/10/01/%E5%89%8D%E8%A8%80/"/>
+    <id>http://viscsec.github.io/2025/10/01/%E5%89%8D%E8%A8%80/</id>
+    <published>2025-09-30T16:00:00.000Z</published>
+    <updated>2025-10-04T03:34:41.423Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your veryfirst post. Check <a href="https://hexo.io/docs/">documentation</a> formore info. If you get any problems when using Hexo, you can find theanswer in <ahref="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> oryou can ask me on <ahref="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>本Knowledge服务于ViscTeam，由Freizy维护，任何有疑惑的地方以及想要修改的文档在群里找到我！</p><h2 id="为何要搭建此知识库">为何要搭建此知识库？</h2><p>首先，对于团队可持续发展以及个人的连续性学习都有很大帮助，尤其是进入团队的新人，我们有必要也有责任为他们的学习做好准备。</p><p>其次，有此知识库，便可以统览整个CS+Sec的大局，避免出现学习迷茫，不知下一步如何做的问题。</p><p>然后，有了对整个知识体系的了解后，清楚地认识哪里需要补充，哪里需要完善，这对于知识基础薄弱但是渗透知识较好的成员有很大帮助。</p><p>综上，本知识库应运而生，也参考了北大csdiy.wiki[<ahref="https://csdiy.wiki/">CS自学指南</a>]的整体架构，希望对团队成员以及从事安全领域的同学有所帮助。</p><h2 id="为何要组建团队">为何要组建团队？</h2><p>“在时代的风口，猪都会上树”</p><p>虽然这个比喻不太恰当，但是实际确实如此，我在此不再举例说明。</p><p>主要原因有如下几点：</p><ul><li><p>第一点，属于我的一些想法和经历。</p><p>​在高考结束后的暑假，我便有了组建一个安全团队的想法，那时候刚学习安全没多久，停留在基础阶段，然后大一学委竞选的时候便有过说明，但苦于没有志同道合的同学，离安全道路渐行渐远，之后大二想过考研，可是命运总是捉弄人，在大二的一个排球课，也就是2月26号，ACM协会中的yuesc询问有没有要做网安技术相关的同学，提供资料和培训。。。我想着如果确实可行，那也好比浑浑噩噩度日的好，于是3.8开始了第一次的谈话，随后我们想法大抵相同，我感叹于yuesc的认知水平令人折服，渗透技术高超，大学经历也相对传奇。所以开始组建团队。</p></li><li><p>第二点，属于时代的趋势。</p><p>​在某大厂hw外包日益严重的情况下，我们曾幻想着打翻牛奶，不为未来而哭泣。团队必然是重中之重的一环，结合各种项目渠道，我们完全可以组建一支团队，没有了中介，其实薪资对于大学生是相当高的。毕业后可以直接留在团队发展，甚至直接开始一起创业。而这种学校内团队，性质与外面的完全不同，在校内，有新生力量，毕业后，有学长接纳，所以对于本校来讲，稳定的学习路线，稳定的就业，还算不错。当然这只是一种想象，我们最起码做到了组建团队这第一步。</p></li><li><p>第三点，契合企业要求的团队培养。</p><p>​ 企业开发需要什么流程？参看devops[<ahref="https://zhuanlan.zhihu.com/p/562036793">终于有人把DevOps讲明白了 -知乎</a>]，基于这种开发流程，介于对安全性的考量，又必然出现了devsecops的全流程，引入了安全性，参看https://developer.aliyun.com/article/1523992与https://security.tencent.com/index.php/blog/msg/191。故我们团队内部也要采用这个架构，来实现企业级别的工作方式，来更好契合企业要求，更快融入企业的文化和工作中。这一步暂时还未实现，未来希望可以做到。</p></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very
-first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; fo</summary>
+    <summary type="html">&lt;p&gt;本Knowledge服务于Visc
+Team，由Freizy维护，任何有疑惑的地方以及想要修改的文档在群里找到我！&lt;/p&gt;
+&lt;h2 id=&quot;为何要搭建此知识库&quot;&gt;为何要搭建此知识库？&lt;/h2&gt;
+&lt;p&gt;首先，对于团队可持续发展以及个人的连续性学习都有很大帮助，尤其是进入</summary>
       
     
     
-    
-    <category term="-nihao" scheme="http://viscsec.github.io/categories/nihao/"/>
     
     
   </entry>
